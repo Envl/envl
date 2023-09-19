@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+stars converted to QQ level: ![](https://envl-qq_svg.web.val.run/envl/)
+> Usage:
+>  - User `https://envl-qq_svg.web.val.run/envl`
+>  - Repo `https://envl-qq_svg.web.val.run/envl/sveltekit-starter`
 <!--
 **Envl/envl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
